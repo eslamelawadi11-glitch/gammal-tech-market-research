@@ -23,9 +23,23 @@ Ashraf represents a "Highly Disciplined" user segment. He is already invested in
 
 ---
 
-## 👤 Interview #2: [Pending...]
-*(Waiting for completion)*
+## 👤 Interview #2: Dr. Yasmin Mohamed
+**Profile:** Healthcare professional (Doctor).
+**Date:** March 2026
 
+### 📝 Key Insights:
+
+| Question | User Response |
+| :--- | :--- |
+| **Current Health Habits** | Focuses on nutrition (Protein/Calcium), drinks ~3 liters of water daily, and attends the gym. |
+| **Preventive Actions** | Strict personal hygiene protocols and social distancing from infected individuals to avoid contagion. |
+| **App Usage** | Currently **does not use** any health apps. |
+| **Early Warning System** | Highly recommends it, especially for **chronic patients** (Diabetes/Hypertension) to remind them of medication or alert them to risks. |
+| **Feature Requests** | Water intake reminders, specialized nutritional plans, and access to specialized doctors for quick consultations. |
+| **Search Habits** | When feeling unwell, she searches to understand the cause or symptoms of her condition. |
+
+### 💡 Analyst's Note:
+Dr. Yasmin provides the perspective of a "Medical Expert" user. Her focus is on **Precision** (specialized nutrition and doctors) and **Condition Management**. Her endorsement of the "Early Warning System" for chronic diseases validates the clinical value of healthcare.gammal.tech beyond just general fitness.
 ---
 
 ## 👤 Interview #3: [Pending...]
