@@ -40,6 +40,7 @@ Ashraf represents a "Highly Disciplined" user segment. He is already invested in
 
 ### 💡 Analyst's Note:
 As a Physical Therapy student, Yasmin understands the clinical importance of prevention. Her insight about using the **"Early Warning System"** for chronic diseases adds a professional layer to our research. She is the perfect example of a "Knowledgeable User" who still finds current market apps lacking in specialized value.
+
 ---
 
 ## 👤 Interview #3: [Pending...]
