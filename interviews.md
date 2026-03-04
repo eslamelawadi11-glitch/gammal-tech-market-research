@@ -23,23 +23,23 @@ Ashraf represents a "Highly Disciplined" user segment. He is already invested in
 
 ---
 
-## 👤 Interview #2: Dr. Yasmin Mohamed
-**Profile:** Healthcare professional (Doctor).
+## 👤 Interview #2: Yasmin Mohamed
+**Profile:** Physical Therapy Student (Future Healthcare Professional).
 **Date:** March 2026
 
 ### 📝 Key Insights:
 
 | Question | User Response |
 | :--- | :--- |
-| **Current Health Habits** | Focuses on nutrition (Protein/Calcium), drinks ~3 liters of water daily, and attends the gym. |
-| **Preventive Actions** | Strict personal hygiene protocols and social distancing from infected individuals to avoid contagion. |
+| **Current Health Habits** | Highly committed to nutrition (Protein/Calcium), drinks ~3 liters of water daily, and gym-goer. |
+| **Preventive Actions** | Focuses on personal hygiene and social distancing from infected people to avoid contagion. |
 | **App Usage** | Currently **does not use** any health apps. |
-| **Early Warning System** | Highly recommends it, especially for **chronic patients** (Diabetes/Hypertension) to remind them of medication or alert them to risks. |
-| **Feature Requests** | Water intake reminders, specialized nutritional plans, and access to specialized doctors for quick consultations. |
-| **Search Habits** | When feeling unwell, she searches to understand the cause or symptoms of her condition. |
+| **Early Warning System** | Strongly supports the idea, especially for **Chronic Disease patients** (Diabetes/Hypertension) to alert them to risks. |
+| **Feature Requests** | Water intake reminders, specialized nutritional plans, and direct access to specialized consultants. |
+| **Search Habits** | When feeling unwell, she searches to understand the symptoms and potential causes of her condition. |
 
 ### 💡 Analyst's Note:
-Dr. Yasmin provides the perspective of a "Medical Expert" user. Her focus is on **Precision** (specialized nutrition and doctors) and **Condition Management**. Her endorsement of the "Early Warning System" for chronic diseases validates the clinical value of healthcare.gammal.tech beyond just general fitness.
+As a Physical Therapy student, Yasmin understands the clinical importance of prevention. Her insight about using the **"Early Warning System"** for chronic diseases adds a professional layer to our research. She is the perfect example of a "Knowledgeable User" who still finds current market apps lacking in specialized value.
 ---
 
 ## 👤 Interview #3: [Pending...]
