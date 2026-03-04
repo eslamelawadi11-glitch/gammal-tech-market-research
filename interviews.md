@@ -23,7 +23,7 @@ Ashraf represents a "Highly Disciplined" user segment. He is already invested in
 
 ---
 
-## 👤 Interview #2: Dr. Yasmin Mohamed
+## 👤 Interview #2: Dr. Yasmin 
 **Profile:** Physical Therapy Student (Future Healthcare Professional).
 **Date:** March 2026
 
