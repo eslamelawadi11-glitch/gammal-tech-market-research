@@ -43,5 +43,19 @@ As a Physical Therapy student, Yasmin understands the clinical importance of pre
 
 ---
 
-## 👤 Interview #3: [Pending...]
-*(Waiting for completion)*
+## 👤 Interview #3: Mohamed Sobhi
+**Profile:** Athlete (Football player & Gym-goer).
+**Date:** March 2026
+
+### 📝 Key Insights:
+
+| Question | User Response |
+| :--- | :--- |
+| **Current Health Habits** | Plays football, goes to the gym, and follows a specific diet plan. |
+| **Preventive Actions** | Performs **comprehensive medical tests** periodically to monitor his health. |
+| **App Usage** | Currently **does not use** any health apps. |
+| **Feature Requests** | A **Calorie Counter** for meals and **daily notifications/reminders** for health tasks. |
+| **Value Proposition** | Believes that having these features in an app would be the main reason to switch to an **Electronic Health Tracking** system. |
+
+### 💡 Analyst's Note:
+Mohamed represents the "Performance-Oriented" user. He is already active and has a diet plan but lacks the digital tools to automate his tracking. The demand for a **Calorie Counter** integrated with **Reminders** confirms that users are looking for an all-in-one assistant, which is exactly what healthcare.gammal.tech aims to provide.
